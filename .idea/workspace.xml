@@ -14,6 +14,8 @@
       <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/serviceWorker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolvers.js" beforeDir="false" afterPath="$PROJECT_DIR$/resolvers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeDefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/typeDefs.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,62 +33,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="559" />
-    <option name="y" value="10" />
-    <option name="width" value="858" />
-    <option name="height" value="846" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1P9h3ie6GqPGbq3yc8XlYOS5zIb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo-pins-photos-places" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo-pins-photos-places" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -97,7 +52,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\Toolbox\apps\WebStorm\ch-0\191.7479.14\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
@@ -140,7 +95,13 @@
       <workItem from="1564607245101" duration="3288000" />
       <workItem from="1564610938069" duration="4000" />
       <workItem from="1565292049353" duration="111000" />
-      <workItem from="1565292203270" duration="4985000" />
+      <workItem from="1565292203270" duration="5193000" />
+      <workItem from="1565791076923" duration="1874000" />
+      <workItem from="1566926493011" duration="4395000" />
+      <workItem from="1566998150161" duration="15000" />
+      <workItem from="1567025369268" duration="1118000" />
+      <workItem from="1567026897818" duration="61000" />
+      <workItem from="1568990872163" duration="7260000" />
     </task>
     <servers />
   </component>
